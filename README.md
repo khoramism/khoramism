@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Alireza Khorami :)
-- 👀 I’m intrested in God knows what comes across
-- 🌱 I’m currently learning How to live
-- 💞️ I’m looking to collaborate on idk
-- 📫 you can reach me at [twitter](https://www.twitter.com/khoramism) and [telegram](https://www.t.me/khoramism) 
+- 👀 I’m intrested in scalable and data intensive applications and pipelines  
+- 📫 you can reach me at [twitter](https://www.twitter.com/khoramism) and [telegram](https://www.t.me/khoramism) or [linkedin](https://www.linkedin.com/in/khoramism/)
 
 <!---
 khoramism/khoramism is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
